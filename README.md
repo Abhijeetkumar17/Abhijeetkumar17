@@ -48,22 +48,10 @@
 
 ---
 
-# 📊 🚀 Live LeetCode Performance
-
-> 🔴 This section updates automatically from LeetCode.
-
-### 🏆 LeetCode Stats
+# 📊 🚀 Live LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhisinha2408?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
----
-
-### 📈 LeetCode Activity Graph
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Abhisinha2408&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Abhisinha2408?theme=dark&font=Baloo" />
 </p>
 
 ---
@@ -135,18 +123,6 @@ CGPA: 8.80
 
 🏫 Intermediate – RPS School (83.20%)  
 🏫 Matriculation – SVM Nalanda (93.50%)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisinha2408&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisinha2408&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisinha2408&theme=radical" />
-</p>
 
 ---
 
