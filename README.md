@@ -16,6 +16,24 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijeet-sinha-401716255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet_Sinha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:abhijeetsinha2017@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Abhisinha2408">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -30,19 +48,32 @@
 
 ---
 
-## 🚀 📊 LeetCode Journey & Consistency
+# 📊 🚀 Live LeetCode Performance
 
-### 🏆 Yearly Activity
+> 🔴 This section updates automatically from LeetCode.
 
-- ✅ 829+ Submissions in Last Year
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Abhisinha2408?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+### 📈 LeetCode Activity Graph
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Abhisinha2408&theme=dark" />
+</p>
+
+---
+
+## 🎯 LeetCode Consistency
+
+- ✅ 829+ Submissions (Last Year)
 - ✅ 365 Days Active
-- ✅ Max Streak: 365 Days
-
-### 📅 2025 Progress
-
-- 📈 386+ Submissions
-- 💪 Daily Practice
-- 📊 Strong Consistency
+- ✅ Max Streak: 365
+- ✅ Daily Practice Habit
 
 > "Consistency beats intensity."
 
@@ -68,16 +99,14 @@
 
 ### 🤖 AI-Powered Chatbot
 - Voice-enabled chatbot
-- Animated UI
-- NLP integration  
+- Animated UI  
 **Tech:** Python, Flask, TensorFlow
 
 ---
 
 ### 👁️ Face Recognition System
-- PCA & Eigenfaces
-- Optimized recognition  
-**Tech:** Python, OpenCV, scikit-learn
+- PCA & Eigenfaces  
+**Tech:** Python, OpenCV
 
 ---
 
@@ -117,24 +146,6 @@ CGPA: 8.80
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisinha2408&layout=compact&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisinha2408&theme=radical" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhijeet-sinha-401716255/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:abhijeetsinha2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Abhisinha2408">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
