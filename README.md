@@ -2,49 +2,110 @@
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhisinha2408&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhisinha2408&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Full Stack Developer (MERN & Java Ecosystem)
-- 🧠 Passionate about Algorithms, Data Structures & Scalable Apps
-- 🤖 Exploring AI, Automation & DevOps
-- 🎯 Strong problem solving & optimization skills
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer (Java, MERN Stack)
+- 🧠 Strong in DSA & Competitive Programming
+- 🤖 Exploring AI, Cloud & DevOps
+- 🎯 Building scalable real-world applications
 
 ---
 
-## 💻 Coding Platforms
+## 💻 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Abhisinha2408/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Abhisinha2408-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-Abhisinha2408-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
   <a href="https://www.geeksforgeeks.org/profile/abhijeetsxk67" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-AbhijeetSXK67-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-AbhijeetSXK67-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 Skills
+## 🚀 📊 LeetCode Journey & Consistency
+
+### 🏆 Yearly Activity
+
+- ✅ 829+ Submissions in Last Year
+- ✅ 365 Days Active
+- ✅ Max Streak: 365 Days
+
+### 📅 2025 Progress
+
+- 📈 386+ Submissions
+- 💪 Daily Practice
+- 📊 Strong Consistency
+
+> "Consistency beats intensity."
+
+---
+
+## 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,mongodb,mysql,html,css,spring,aws,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mongodb,mysql,html,css,tailwind,django,docker,kubernetes,git,github,aws,figma" />
 </p>
 
 ---
 
-## 🛠️ Projects
+## 🚀 Projects
 
-### 📌 Project 1 — QuickChat Real-Time Chat App
-- Built real-time chat with JWT auth & socket implementation  
-- **Tech:** React, Node.js, MongoDB, Socket.IO
+### 💬 QuickChat – Real-Time Chat App
+- Real-time messaging
+- JWT Authentication
+- Stripe Integration  
+**Tech:** React, Node, MongoDB, Socket.IO
 
-### 📌 Project 2 — AI-Powered Chatbot UI
-- Chatbot with voice & animated face
-- **Tech:** Python, Flask, Unity
+---
+
+### 🤖 AI-Powered Chatbot
+- Voice-enabled chatbot
+- Animated UI
+- NLP integration  
+**Tech:** Python, Flask, TensorFlow
+
+---
+
+### 👁️ Face Recognition System
+- PCA & Eigenfaces
+- Optimized recognition  
+**Tech:** Python, OpenCV, scikit-learn
+
+---
+
+## 🏆 Achievements
+
+- 🌟 100K+ LinkedIn Impressions
+- 🥇 1st Position – CTF Challenge
+- 🏅 Hack2Skill Google Badge
+- 🥈 Silver Badge – Apertio 2.0
+
+---
+
+## 📜 Certifications
+
+- 📊 Data Visualization – TATA
+- ☁️ Cloud Computing – NPTEL
+- 🤖 AI Tools – Be10X
+- 🌐 Google BigQuery ML
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech CSE – Lovely Professional University**  
+CGPA: 8.80
+
+🏫 Intermediate – RPS School (83.20%)  
+🏫 Matriculation – SVM Nalanda (93.50%)
 
 ---
 
@@ -52,35 +113,36 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhisinha2408&show_icons=true&theme=radical" />
-  <br />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisinha2408&layout=compact&theme=radical" />
-  <br />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisinha2408&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/abhijeet-sinha-401716255/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+  <a href="https://linkedin.com/in/abhijeet-sinha-401716255/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/_abhijeet_sxk67" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
   <a href="mailto:abhijeetsinha2017@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Abhisinha2408">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### ☕ Support Me
+## ☕ Support Me
 
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/abhijeetkumar">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
   </a>
 </p>
-
