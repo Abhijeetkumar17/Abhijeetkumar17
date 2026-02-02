@@ -1,119 +1,77 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & Data Science Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Abhijeet Sinha</h1>
+<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijeetkumar17&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeetkumar17" />
+  <img src="https://komarev.com/ghpvc/?username=Abhisinha2408&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 💼 About Me
-
-- 💻 Full Stack Developer with strong skills in Java, JavaScript, and Python  
-- 🤖 Interested in AI, Data Science, and System Architecture  
-- 🏆 Active in coding communities and hackathons  
-- 🎯 Passionate about building scalable, real-world applications  
-
----
-
-### 🌱 Currently Learning
-
-- 🧠 Advanced System Design (HLD & LLD)
-- ⚛️ React.js & Backend Optimization
-- ☁️ Cloud & DevOps (Docker, Kubernetes)
+### 👨‍💻 About Me
+- 💻 Full Stack Developer (MERN & Java Ecosystem)
+- 🧠 Passionate about Algorithms, Data Structures & Scalable Apps
+- 🤖 Exploring AI, Automation & DevOps
+- 🎯 Strong problem solving & optimization skills
 
 ---
 
-### 💼 Internship Experience
+## 💻 Coding Platforms
 
-#### 🔹 CodeAlpha – Data Science Intern (Jan 2025 – Feb 2025)
-- Worked on predictive modeling
-- Data analysis using Python, SQL, Excel
-
-#### 🔹 IBM (AllSoft) – Full Stack Developer Intern (Jun 2024 – Jul 2024)
-- Built frontend & backend applications
-- Worked with microservices & Kubernetes
-
----
-
-### 🚀 Projects
-
-#### 🤖 AI-Powered Chatbot with 3D Animated Face
-- Real-time chatbot with voice & facial expressions  
-- Top 200 project at Hack2Skill (Google)
-
-**Tech:** Python, Flask, Unity, WebSocket, TensorFlow
+<p align="center">
+  <a href="https://leetcode.com/u/Abhisinha2408/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Abhisinha2408-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/abhijeetsxk67" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-AbhijeetSXK67-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+</p>
 
 ---
 
-#### 💬 QuickChat – Real-Time Chat Application
-- Real-time messaging system
-- JWT authentication & Stripe integration
-
-**Tech:** React, Node.js, MongoDB, Socket.IO
-
----
-
-#### 👁️ Face Recognition System
-- PCA & Eigenfaces based recognition
-- Optimized image processing
-
-**Tech:** Python, OpenCV, scikit-learn
-
----
-
-### 🛠️ Languages & Tools
+## 🚀 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mongodb,mysql,html,css,tailwind,django,docker,kubernetes,git,github,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,mongodb,mysql,html,css,spring,aws,figma,git,github" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🛠️ Projects
 
-- 🌟 100K+ LinkedIn Impressions (#365DaysOfCode)
-- 🥇 1st Position – CTF Challenge (GDSC)
-- 🏅 Hack2Skill Hackathon Badge (Google)
-- 🥈 Silver Badge – Apertio 2.0 (Open Source)
+### 📌 Project 1 — QuickChat Real-Time Chat App
+- Built real-time chat with JWT auth & socket implementation  
+- **Tech:** React, Node.js, MongoDB, Socket.IO
 
----
-
-### 📜 Certifications
-
-- 📊 Data Visualization – TATA
-- ☁️ Cloud Computing – NPTEL (IIT Kharagpur)
-- 🤖 AI Tools & ChatGPT – Be10X
-- 🌐 Google BigQuery ML Badge
+### 📌 Project 2 — AI-Powered Chatbot UI
+- Chatbot with voice & animated face
+- **Tech:** Python, Flask, Unity
 
 ---
 
-### 🎓 Education
-
-🎓 **B.Tech CSE** – Lovely Professional University  
-CGPA: 8.80 (Since Aug 2026)
-
-🏫 Intermediate – R.P.S School, Bihar (83.20%)  
-🏫 Matriculation – Saraswati Vidya Mandir, Bihar (93.50%)
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: abhijeetsinha2017@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/abhijeet-sinha-401716255/  
-- 💻 GitHub: https://github.com/Abhijeetkumar17  
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetkumar17&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkumar17&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeetkumar17&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhisinha2408&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisinha2408&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisinha2408&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abhijeet-sinha-401716255/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/_abhijeet_sxk67" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:abhijeetsinha2017@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -122,6 +80,7 @@ CGPA: 8.80 (Since Aug 2026)
 
 <p>
   <a href="https://www.buymeacoffee.com/abhijeetkumar">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
+
